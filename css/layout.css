@@ -24,4 +24,35 @@
 
 /* Positioning Classes */
 
+.fright{
+  float: right;
+  width: 25%;
+}
+
+.fleft{
+  float: left;
+  width: 60%;
+  margin: 2%;
+}
+
+#bug{
+  float: left;
+  width: 30%;
+}
+
+#shoe{
+  width: 30%;
+}
+
+#heel{
+  float: right;
+  width: 30%;
+}
+
+
+
+
+
+
+
 
